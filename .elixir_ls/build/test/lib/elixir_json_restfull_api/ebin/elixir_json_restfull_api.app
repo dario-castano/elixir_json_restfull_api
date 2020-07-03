@@ -1,9 +1,0 @@
-{application,elixir_json_restfull_api,
-             [{applications,[kernel,stdlib,elixir,logger,poison,excoveralls,
-                             inch_ex,plug_cowboy]},
-              {description,"elixir_json_restfull_api"},
-              {modules,['Elixir.ElixirJsonRestfullApi',
-                        'Elixir.ElixirJsonRestfullApi.Application']},
-              {registered,[]},
-              {vsn,"0.1.0"},
-              {mod,{'Elixir.ElixirJsonRestfullApi.Application',[]}}]}.
